@@ -1,6 +1,6 @@
 {
   "name": "@helloagentai/hermes",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Bridge between the HelloAgent server and a Hermes Agent gateway. HelloAgent users chat with their personal Hermes through the same UX as any HelloAgent contact.",
   "license": "MIT",
   "author": "HelloAgent",
